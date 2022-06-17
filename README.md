@@ -1,3 +1,6 @@
+# Development memo
+sorry. Not started yet
+
 # UseTableauSDK
 Source of tableau SDK to load CSV file
 
